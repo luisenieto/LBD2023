@@ -1,0 +1,17 @@
+*.pdf
+*.pptx
+*.odp
+*.txt
+*.odg
+.~lock*
+*.class
+*.mp4
+*.jpeg
+*.eap
+Prácticos/
+Prueba/
+Ordenes/
+OrdenesPrueba/
+Fuentes/
+
+
